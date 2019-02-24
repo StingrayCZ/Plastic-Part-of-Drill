@@ -7,5 +7,8 @@ This sample shows possibilities of basic modeling and creating a drawing in Soli
 
 This sample shows possibilities of basic modeling and creating a drawing in SolidWorks. For concretely description this model is A hand-held corded electric drill.
 
-
-![alt-text-1](DrillOnPicture.PNG "title-1") ![alt-text-2](DrillOnPicture.PNG "title-2")
+<p float="left">
+  <img src="/DrillOnPicture.PNG" width="100" />
+  <img src="/DrillOnPicture.PNG" width="100" /> 
+  <img src="/DrillOnPicture.PNG" width="100" />
+</p>

@@ -9,6 +9,6 @@ This sample shows possibilities of basic modeling and creating a drawing in Soli
 
 <p float="left">
   <img src="/DrillOnPicture.PNG" width="100" />
-  <img src="/DrillOnPicture.PNG" width="100" /> 
-  <img src="/DrillOnPicture.PNG" width="100" />
+  <img src="/DrillOnPicture.PNG" width="200" /> 
+  <img src="/DrillOnPicture.PNG" width="400" />
 </p>

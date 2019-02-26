@@ -3,5 +3,5 @@ That SolidWorks model represents a hand-held corded electric drill that made fro
 Extruded Boss/Cut, frequent Fillet, Ribs, Hole Wizard, Shell tools, etc.
 <p float="left">
   <img src="/DrillOnPicture.PNG" width="400" />
-  <img src="/DrawingAsPicture.png" width="400" /> 
+  <img src="/DrawingAsPicture(small).png" width="400" /> 
 </p>
